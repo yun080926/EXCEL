@@ -69,29 +69,35 @@
 
 
 > **날짜 데이터 그룹화 및 일주일 단위로 구분하기(310 ~312p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1102" height="781" alt="image" src="https://github.com/user-attachments/assets/8d2229b5-e8ed-45fc-99bb-a54f7ef01d2c" />
+
 
 > **필터 및 정렬 기능으로 우수 고객 빠르게 파악하기(313 ~316p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="837" height="777" alt="image" src="https://github.com/user-attachments/assets/1119680d-41f2-4034-be2b-f33d43e135f5" />
+
 
 
 ## 06-5. 피벗 테이블의 활용도를 높여 줄 유용한 기능
 > **계산 필드로 매출이익률 구하고 #DIV/O! 오류 해결하기(320 ~322p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1397" height="265" alt="image" src="https://github.com/user-attachments/assets/fd537c54-683e-4faf-ae17-2359635cdc78" />
+
 
 > **계산 항목으로 행과 열의 항목 간 계산된 값 추가하기(322 ~325p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="866" height="370" alt="image" src="https://github.com/user-attachments/assets/1c80d8ee-188f-45ba-8ff1-d3fc1422ac27" />
+
 
 
 ## 06-6. 실시간 데이터 분석을 위한 슬라이서, 시간 표시 막대
 > **피벗 레이블의 최강 콤비, 슬라이서 추가하기(326 ~329p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1647" height="611" alt="image" src="https://github.com/user-attachments/assets/69d05c7c-98f8-40b3-950b-c3f48ba2d9b6" />
+
 
 > **시간 표시 막대와 슬라이서로 날짜 필터링하기(329 ~332p)를 진행 후 인증사진을 첨부해주세요.**
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
 
 > **대시보드 제작을 위한 슬라이서 꾸미기(333 ~335p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1042" height="855" alt="image" src="https://github.com/user-attachments/assets/5bd0e31d-aed9-4475-9085-84642b2b8b3f" />
+
 
 > **여러 피벗 테이블을 동시에 필터링하기(336 ~338p)를 진행 후 인증사진을 첨부해주세요.**
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
