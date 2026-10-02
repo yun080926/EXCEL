@@ -41,28 +41,32 @@
 
 ## 06-1. 범위가 자동으로 확장되는 엑셀 표 기능
 > **범위를 표로 변경하고 이름 지정하기(274 ~276p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="682" height="637" alt="image" src="https://github.com/user-attachments/assets/ec07a24f-6228-4942-abe4-7650b6a73120" />
 
 
 ## 06-2. 원하는 형태로 재정렬한 피벗 테이블 만들기
 > **피벗 테이블 레이아웃 변경 및 꾸미기(289 ~294p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1366" height="667" alt="image" src="https://github.com/user-attachments/assets/d1b197ca-3422-45fb-b72f-912687bfe841" />
+
 
 > **필드 표시 형식 및 집계 방식 변경하여 매출 현황 분석하기(294 ~298p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="701" height="662" alt="image" src="https://github.com/user-attachments/assets/b2633efd-5502-4401-89f8-ed3fd337f5bb" />
 
 
 ## 06-3. 피벗 테이블의 값 표시 형식 파악하기
 > **조건부 서식과 값 표시 형식으로 입고 내역 분석하기(300 ~304p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1397" height="572" alt="image" src="https://github.com/user-attachments/assets/39f84294-c846-4817-aa35-898e9a5d07a3" />
+
 
 > **값 표시 형식으로 입고 수량의 합계와 비율 표시하기(305 ~306p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="587" height="457" alt="image" src="https://github.com/user-attachments/assets/272ff06f-1bb9-4b50-a6bf-425f0c6bc744" />
+
 
 
 ## 06-4. 데이터를 빠르게 집계하는 그룹 및 정렬 기능
 > **그룹 기능으로 구간별 데이터 분석하기(307 ~309p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="622" height="457" alt="image" src="https://github.com/user-attachments/assets/dcc43047-f1c7-4945-9199-dfbc5fff6ea4" />
+
 
 > **날짜 데이터 그룹화 및 일주일 단위로 구분하기(310 ~312p)를 진행 후 인증사진을 첨부해주세요.**
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
