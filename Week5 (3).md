@@ -93,14 +93,16 @@
 
 
 > **시간 표시 막대와 슬라이서로 날짜 필터링하기(329 ~332p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1172" height="662" alt="image" src="https://github.com/user-attachments/assets/96e588ea-5ec0-4bd7-8897-b21d0d3776cd" />
+
 
 > **대시보드 제작을 위한 슬라이서 꾸미기(333 ~335p)를 진행 후 인증사진을 첨부해주세요.**
 <img width="1042" height="855" alt="image" src="https://github.com/user-attachments/assets/5bd0e31d-aed9-4475-9085-84642b2b8b3f" />
 
 
 > **여러 피벗 테이블을 동시에 필터링하기(336 ~338p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1792" height="690" alt="image" src="https://github.com/user-attachments/assets/089bad8f-3dd5-4503-bdf2-6645ccec1340" />
+
 
 
 ---
